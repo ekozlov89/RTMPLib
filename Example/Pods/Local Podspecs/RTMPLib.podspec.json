@@ -1,0 +1,22 @@
+{
+  "name": "RTMPLib",
+  "version": "0.1.0",
+  "summary": "A short description of RTMPLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ekozlov89/RTMPLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ekozlov89": "ekozlov89@mail.ru"
+  },
+  "source": {
+    "git": "https://github.com/ekozlov89/RTMPLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "RTMPLib/Classes/**/*"
+}

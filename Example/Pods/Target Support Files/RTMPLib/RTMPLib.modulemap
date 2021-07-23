@@ -1,0 +1,6 @@
+framework module RTMPLib {
+  umbrella header "RTMPLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
