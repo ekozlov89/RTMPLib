@@ -3,11 +3,7 @@ use_frameworks!
 platform :ios, '9.0'
 
 target 'RTMPLib_Example' do
+  
   pod 'RTMPLib', :path => '../'
 
-  target 'RTMPLib_Tests' do
-    inherit! :search_paths
-
-    
-  end
 end
