@@ -1,5 +1,5 @@
 PODS:
-  - RTMPLib (0.1.1)
+  - RTMPLib (0.1.2)
 
 DEPENDENCIES:
   - RTMPLib (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  RTMPLib: 5ffc8b88cd93b173726f0c114ec21fdcf71cf7db
+  RTMPLib: 97e7b0a1b0c49736f5b232b8c9b59dfb2832a27a
 
 PODFILE CHECKSUM: 3545e2140a9092c13cbf30d8ea3f976ee17dad0d
 
